@@ -1,0 +1,3 @@
+yay: 2
+gnome: 0
+poroshenko: 1
